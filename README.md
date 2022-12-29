@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergio Gugliandolo</h1>
+<h1 align="center">Hi 	:wave: 👋, I'm Sergio Gugliandolo</h1>
 <h3 align="center">MSc Mechatronic Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tizio0o0o0o&label=Profile%20views&color=0e75b6&style=flat" alt="tizio0o0o0o" /> </p>
