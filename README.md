@@ -1,6 +1,6 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Sergio Gugliandolo</h1>
+<h1 align="center">Hi , I'm Sergio Gugliandolo</h1>
 <h3 align="center">MSc Mechatronic Engineering student</h3>
-
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tizio0o0o0o&label=Profile%20views&color=0e75b6&style=flat" alt="tizio0o0o0o" /> </p>
 
 <h3 align="left">Connect and find more information about me on Linkedin <a href="https://linkedin.com/in/sergio-gugliandolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aa" height="30" width="40" /></a> </h3>
