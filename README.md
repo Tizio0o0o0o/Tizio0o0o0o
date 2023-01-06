@@ -7,7 +7,10 @@ MSc Mechatronic Engineering student
 
 ### You can find me
 
-<p align="left"> <a href="https://www.github.com/tizio0o0o0o" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sergio-gugliandolo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.github.com/tizio0o0o0o" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/sergio-gugliandolo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  <a href="https://sergiogugliandolo.it" target="_blank" rel="noreferrer"></a></p>
 
 <b>GitHub Stats</b>
   
