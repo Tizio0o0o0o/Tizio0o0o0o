@@ -5,4 +5,4 @@ MSc Mechatronic Engineering student
 
 
 
-### You can find me on <a href="https://sergiogugliandolo.it" target="_blank" rel="noreferrer">my site</a>, on <a href="https://www.linkedin.com/in/sergio-gugliandolo" target="_blank" rel="noreferrer">Linkedin</a> and on <a href="https://www.github.com/tizio0o0o0o" target="_blank" rel="noreferrer">GitHub</a>.
+### You can find me on <a href="https://sergiogugliandolo.it" target="_blank" rel="noreferrer"><img src="https://sergiogugliandolo.it/Logo.png" width="30"/> my site</a>, on <a href="https://www.linkedin.com/in/sergio-gugliandolo" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="30"/>Linkedin</a> and on <a href="https://www.github.com/tizio0o0o0o" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" width="30"/>GitHub</a>.
